@@ -4,9 +4,17 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Built with Quarto](https://img.shields.io/badge/Built%20with-Quarto-blue)](https://quarto.org/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20374641.svg)](https://doi.org/10.5281/zenodo.20374641)
+<a href="https://doi.org/10.5281/zenodo.20374641"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20374641.svg" alt="DOI"></a>
 [![Vercel](https://img.shields.io/badge/Vercel-live-black?logo=vercel)](https://shumeria.vercel.app/)
 [![Netlify](https://img.shields.io/badge/Netlify-live-teal?logo=netlify)](https://shumeria.netlify.app/)
+
+<details>
+<summary><strong>Ver portada</strong></summary>
+<br>
+<p align="center">
+  <img src="00-cover.png" alt="Portada del ensayo Shumeria" width="60%">
+</p>
+</details>
 
 ---
 
