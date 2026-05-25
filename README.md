@@ -38,6 +38,7 @@ Ambos formatos comparten DOI y son referencialmente equivalentes; para lectura s
 | Vercel | <https://shumeria.vercel.app/> |
 | Netlify | <https://shumeria.netlify.app/> |
 | GitHub Pages | <https://utilizas.github.io/shumeria/> |
+| Cloudflare | <https://shumeria.utilizas.workers.dev/> |
 | Repositorio fuente | <https://github.com/utilizas/shumeria> |
 
 ## Reproducción
