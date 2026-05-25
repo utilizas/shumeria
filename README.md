@@ -54,7 +54,7 @@ Fuentes bibliográficas en `references.bib`. Configuración mínima por preferen
 
 ## Procedimiento de elaboración
 
-El ensayo declara explícitamente, en su propia nota metodológica, el uso de asistencia de modelo de lenguaje frontera (Claude Opus 4.7, Anthropic) para tareas de verificación bibliográfica, análisis de ubicación estructural, refinado lingüístico y auditoría de coherencia. Tesis, estructura argumentativa, lectura crítica de las fuentes primarias y todas las decisiones editoriales son de responsabilidad autoral exclusiva.
+El ensayo declara explícitamente, en su propia nota metodológica, el uso de asistencia de modelo de lenguaje frontera (Claude Opus 4.7, Anthropic) para tareas de verificación bibliográfica, análisis de ubicación estructural, refinado lingüístico y auditoría de coherencia. Tesis, estructura argumentativa, lectura crítica de las fuentes primarias y todas las decisiones editoriales son de responsabilidad autoral exclusiva. La imagen de portada fue generada con Perplexity. Para otros detalles metodológicos, véase [§8](http://localhost:5522/#implicaciones-para-un-ejercicio-riguroso-de-prospectiva-tecnol%C3%B3gica) — Nota sobre autoría y metodología.
 
 ## Cita
 
