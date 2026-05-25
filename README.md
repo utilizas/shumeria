@@ -7,6 +7,7 @@
 <a href="https://doi.org/10.5281/zenodo.20374641"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20374641.svg" alt="DOI"></a>
 [![Vercel](https://img.shields.io/badge/Vercel-live-black?logo=vercel)](https://shumeria.vercel.app/)
 [![Netlify](https://img.shields.io/badge/Netlify-live-teal?logo=netlify)](https://shumeria.netlify.app/)
+<a href="https://shumeria.utilizas.workers.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Cloudflare%20Workers-shumeria-F38020?logo=cloudflare&logoColor=white" alt="Despliegue en Cloudflare Workers"></a>
 
 <details>
 <summary><strong>Ver portada</strong></summary>
